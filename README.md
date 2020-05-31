@@ -1,5 +1,7 @@
 # Venus-v16
 Blogger one Venus V1620 Template
+Sürüm: Venus v1620
+Gelişim: alveren.com
 
 Açıklama:
 
